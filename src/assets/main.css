@@ -1,0 +1,22 @@
+:root {
+  --background-color: #1d1c1c;
+  --text-color: #fff;
+}
+
+body {
+  background-color: var(--background-color);
+  color: var(--text-color);
+}
+
+button {
+  transition: all 0.2s ease-in-out;
+}
+
+button:hover {
+  background-color: #ddd;
+  cursor: pointer;
+}
+
+button:active {
+  transform: scale(0.95);
+}
