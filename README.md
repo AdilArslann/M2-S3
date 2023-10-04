@@ -4,14 +4,6 @@
 
 The Habit-tracking App is a web application designed to help users establish and maintain daily habits. Whether it's exercising, reading, meditating, or any other habit, this app provides an intuitive and user-friendly platform for habit tracking and management.
 
-## Recommended IDE Setup
-
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
 ## Project Setup
 
 ```sh
@@ -28,10 +20,6 @@ npm run dev
 
 ```sh
 npm run build
+npm run preview
 ```
 
-### Lint with [ESLint](https://eslint.org/)
-
-```sh
-npm run lint
-```
